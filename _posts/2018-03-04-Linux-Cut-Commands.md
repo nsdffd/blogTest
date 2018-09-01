@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Linux Cut commands File Processing using CUT commands
+title: Linux File Processing using CUT commands
 date: 2018-03-03 00:00:00 +0300
 description: Linux CUT commands # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+<!-- img: how-to-start.jpg # Add image post (optional) -->
 tags: [Programming, Learn, Linux, Cut, Shell, terminal] # add tag
 comments: true
 ---
