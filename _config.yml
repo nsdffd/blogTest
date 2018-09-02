@@ -1,38 +1,49 @@
 title: RakiBlogs
+email: mrahman06@qub.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to RakiBlogs, blogs related to crypto and other stuff that you may need it.
   It cover a wide vareity of topics from Blockchain,
   Artificial Intelligence, to Aerospace engineering.
-
 permalink: ':title/'
-# baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+# baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://nsdffd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
 
-# Author Settings
+# Author settings
 author: Rakib Fiha # add your name
-author-img: rakib-fiha.jpg # add your photo
-about-author: Hey there! I'm <a href="https://RakibFiha.com">Rakib Fiha</a>. <br> <br> Welcome to RakiBlogs!! <br><br> I will try to cover as much as I can to write about Blockchain, AI and also the projects that I am currently working on. I am mainly writing these blogs for me, so that I can come back here and see how's things going. haha. <br> <br> But at the same time, anyone is welcome to join me here. <br> <br> <a href="https://RakibFiha.com"> Here </a> you can know more about me. # add description
-social-twitter: RakibFiha # add your Twitter handle
-social-facebook: RakibFiha # add your Facebook handle
-social-github: RakibFiha # add your Github handle
-social-linkedin: RakibFiha # add your Linkedin handle
-social-email: mrahman06@qub.ac.uk # add your Email address
+author-pic: rakib-fiha.jpg
+about-author: Hey there! I'm <a href="https://RakibFiha.com">Rakib Fiha</a>. <br> <br> Welcome to RakiBlogs!! <br><br> I will try to cover as much as I can to write about Blockchain, AI and also the projects that I am currently working on. I am mainly writing these blogs for me, so that I can come back here and see how's things going. haha. <br> <br> But at the same time, anyone is welcome to join me here. <br> <br> <a href="https://RakibFiha.com"> Here </a> you can know more about me.
+
+# Contact links
+email: mrahman06@qub.ac.uk # Add your Email address
+phone: # Add your Phone number
+website: https://RakibFiha.com # Add your website, do not add http://
+linkedin: RakibFiha # Add your Linkedin handle
+github: RakibFiha # Add your Github handle
+twitter: '@RakibFiha' # Add your Twitter handle
+facebook: RakibFiha # Add your Facebook handle
+instagram: RakibFiha # Add your Instagram handle
+pinterest: RakibFiha # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus-identifier: RakibFiha # add your discus identifier
+discus_identifier: RakibFiha # Add your discus identifier
 
 # Tracker
-analytics: Rakib Fiha # Google Analytics
+analytics: # Google Analytics
 
-# Build Settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  # - jemoji
-
+# Paginate
 paginate: 8
-paginate_path: "/page/:num"
+paginate_path: /page:num/
 
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
