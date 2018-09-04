@@ -1,6 +1,6 @@
-# Adam Blog is a minimal clear theme for Jekyll
+# Rakib Fiha Blog is a minimal clear theme for Jekyll
 
-![Adam Blog - Imac](assets/img/rakibfiha-blog.jpg)
+![Rakib Fiha](assets/img/rakibfiha-blog.jpg)
 
 ## Demo
 
