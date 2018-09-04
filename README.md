@@ -1,18 +1,18 @@
 # Adam Blog is a minimal clear theme for Jekyll
 
-![Adam Blog - Imac](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-blog-imac.jpg?raw=true)
+![Adam Blog - Imac](assets/img/rakibfiha-blog.jpg)
 
 ## Demo
 
-Check the theme in action [Demo](https://artemsheludko.github.io/adam-blog/)
+Check the theme in action [Demo](https://blogs.rakibfiha.com)
 
 The main page would look like this:
 
-![Main page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-home-page.jpg?raw=true)
+![Main page preview](assets/img/rakibfiha-home-page.jpg)
 
 The post page would look like this:
 
-![Post page preview](https://github.com/artemsheludko/adam-blog/blob/master/assets/img/adam-post-example.jpg?raw=true)
+![Post page preview](assets/img/rakibfiha-post-example.jpg)
 
 ## Features
 
