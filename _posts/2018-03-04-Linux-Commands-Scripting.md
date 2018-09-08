@@ -3,7 +3,7 @@ layout: post
 title: Linux Scripting
 date: 2018-03-03 00:00:00 +0300
 description: Linux Scripting commands # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: panda.png # Add image post (optional)
 tags: [Programming, Learn, Linux, Scripting, CAT, Shell, terminal] # add tag
 comments: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Linux GREP commands
 date: 2018-03-03 00:00:00 +0300
 description: Linux GREP commands # Add post description (optional)
-img: how-to-start.jpg # Add image post (optional)
+img: eth.jpeg # Add image post (optional)
 tags: [Programming, Learn, Linux, GREP, Shell, terminal] # add tag
 comments: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: How To Add 2FA (Two Factor Authentication) in the VPS SSH
 date: 2018-08-31 13:32:20 +0300
 description: Guide to setup 2FA in any VPS SSH login. # Add post description (optional)
-img: ssh1.jpg # Add image post (optional)
+img: 2fa.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [linux, 2fa, SSH]
 category: articles
